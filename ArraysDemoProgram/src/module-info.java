@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author shreeee
- *
- */
-module ArraysDemoProgram {
-}
